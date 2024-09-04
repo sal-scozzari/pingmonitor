@@ -1,0 +1,8 @@
+2021-08-15 07:34:21,112, INFO, pingmonitor starting
+2021-08-15 07:34:21,128, INFO, Address = 8.8.8.8
+2021-08-15 07:34:21,128, INFO, Rate count max = 24 samples
+2021-08-15 07:34:21,128, INFO, Repeat deplay = 5000 ms
+2021-08-15 07:34:21,128, INFO, Degraded service threshold = 50 %
+2021-08-15 07:34:21,128, INFO, Lost service threshold = 5 %
+2021-08-15 07:34:21,159, DEBUG, Reply succeeded, 0.007, 100.00
+2021-08-15 07:34:26,175, DEBUG, Reply succeeded, 0.006, 100.00

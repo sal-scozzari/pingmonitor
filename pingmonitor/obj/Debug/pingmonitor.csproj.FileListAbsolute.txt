@@ -1,0 +1,10 @@
+C:\Users\Sal\source\repos\pingmonitor\pingmonitor\bin\Debug\pingmonitor.exe.config
+C:\Users\Sal\source\repos\pingmonitor\pingmonitor\bin\Debug\pingmonitor.exe
+C:\Users\Sal\source\repos\pingmonitor\pingmonitor\bin\Debug\pingmonitor.pdb
+C:\Users\Sal\source\repos\pingmonitor\pingmonitor\obj\Debug\pingmonitor.csproj.AssemblyReference.cache
+C:\Users\Sal\source\repos\pingmonitor\pingmonitor\obj\Debug\pingmonitor.csproj.CoreCompileInputs.cache
+C:\Users\Sal\source\repos\pingmonitor\pingmonitor\obj\Debug\pingmonitor.exe
+C:\Users\Sal\source\repos\pingmonitor\pingmonitor\obj\Debug\pingmonitor.pdb
+C:\Users\Sal\source\repos\pingmonitor\pingmonitor\bin\Debug\log4net.dll
+C:\Users\Sal\source\repos\pingmonitor\pingmonitor\bin\Debug\log4net.xml
+C:\Users\Sal\source\repos\pingmonitor\pingmonitor\obj\Debug\pingmonitor.csproj.CopyComplete
